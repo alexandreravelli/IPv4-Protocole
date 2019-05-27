@@ -1,4 +1,4 @@
-# Les classes d'adresses
+# Les classes d'adresses IPV4
 
 Name | Lunch order | Spicy      | Owes
 ------- | ---------------- | ---------- | ---------:

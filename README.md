@@ -23,7 +23,7 @@ D      | 240.0.0.0     | 224.0.0.0 - 239.255.255.255 | adresses uniques | adress
 
 -----------------------------------------------------------
 
-# Les adresses IP privées et publiques IPV4
+# Les adresses IP privées IPV4
 
 > Les adresses IP privées
 

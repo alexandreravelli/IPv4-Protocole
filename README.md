@@ -3,11 +3,11 @@
 *** ***
 *********************
 
-| Header 1      |     2 header    |   header 3 |
-| ------------- |: -------------: | ---------: |
-| 1 Online      |        1        |      value |
-| Line 2        |        2        |      value |
-| 3 Online      |        3        |      value |
+Name | Lunch order | Spicy      | Owes
+------- | ---------------- | ---------- | ---------:
+Joan  | saag paneer | medium | $11
+Sally  | vindaloo        | mild       | $14
+Erin   | lamb madras | HOT      | $5
 
 -----------------------------------------------------------
 

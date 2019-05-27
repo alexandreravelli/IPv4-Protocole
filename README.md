@@ -1,8 +1,5 @@
 # Les classes d'adresses
 
-*** ***
-*********************
-
 Name | Lunch order | Spicy      | Owes
 ------- | ---------------- | ---------- | ---------:
 Joan  | saag paneer | medium | $11

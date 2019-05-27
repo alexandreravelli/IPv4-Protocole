@@ -1,10 +1,10 @@
 # Les classes d'adresses IPV4
 
-Name | Lunch order | Spicy      | Owes
-------- | ---------------- | ---------- | ---------:
-Joan  | saag paneer | medium | $11
-Sally  | vindaloo        | mild       | $14
-Erin   | lamb madras | HOT      | $5
+Classe | Masque réseau | Adresses réseau | 
+-------| --------------| ----------      | 
+A      | saag paneer   | medium          | 
+B      | vindaloo      | mild            |
+C      | lamb madras   | HOT             
 
 -----------------------------------------------------------
 

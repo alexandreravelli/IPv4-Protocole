@@ -30,3 +30,9 @@ D      | 240.0.0.0     | 224.0.0.0 - 239.255.255.255 | adresses uniques | adress
 -    Les adresses privées de la classe A : <b> 10.0.0.0 à 10.255.255.255 </b>
 -    Les adresses privées de la classe B : <b> 172.16.0.0 à 172.31.255.255 </b>
 -    Les adresses privées de la classe C : <b> 192.168.1.0 à 192.168.255.255 </b>
+
+Classe | Masque réseau | Adresses réseau | Notation CIDR | 
+-------| --------------| ----------      |  ----------       |
+A      | 255.0.0.0     | 10.0.0.0 - 10.255.255.255 |10.0.0.0/8 |
+B      | 255.255.0.0   | 172.16.0.0 - 172.31.255.255 |172.16.0.0/12 |
+C      | 255.255.255.0 | 192.0.0.0 - 223.255.255.255 | 192.168.0.0/16 |

@@ -12,7 +12,7 @@ D      | 240.0.0.0     | 224.0.0.0 - 239.255.255.255 |
 
 -----------------------------------------------------------
 
-# Les classes d'adresses IPV4
+# Espace d'adressage IPV4
 
 Classe | Masque réseau | Adresses réseau | Nombre de réseaux | 
 -------| --------------| ----------      |  ----------
@@ -23,7 +23,7 @@ D      | 240.0.0.0     | 224.0.0.0 - 239.255.255.255 | adresses uniques |
 
 -----------------------------------------------------------
 
-# Les adresses IP privées et publiques
+# Les adresses IP privées et publiques IPV4
 
 > Les adresses IP privées
 
